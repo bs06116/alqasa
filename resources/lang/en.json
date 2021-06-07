@@ -1,0 +1,12 @@
+{
+  "auth-error": "The phone number or password is not correct, please try again",
+  "register-error": "An error occurred during the registration process, please try again",
+  "general-validate-phone-error": "An error occurred during the verification process, please try again",
+  "change-password-error": "An error occurred during the change password process, please try again",
+  "delete-favorite-error": "Deleted from favorites successfully",
+  "add-message-error": "The message has been sent successfully. You will be answered as soon as possible",
+  "delete-reservation-error": "Deleted from reservation successfully",
+  "edit-reservation-error": "Deleted from reservation successfully",
+  "delete-medical-report-error": "Deleted from medical report successfully",
+  "delete-medicine-error": "Deleted from medicine successfully"
+}

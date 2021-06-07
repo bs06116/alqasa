@@ -1,0 +1,12 @@
+{
+  "auth-error": "رقم الهاتف او كلمة المرور غير صحيحة, من فضلك حاول مرة آخرى",
+  "register-error": "حدث خطا اثناء عملية التسجيل, من فضلك حاول مرة آخرى",
+  "general-validate-phone-error": "حدث خطا اثناء عملية التحقق, من فضلك حاول مرة آخرى",
+  "change-password-error": "حدث خطأ أثناء عملية تغيير كلمة المرور ، يرجى المحاولة مرة أخرى",
+  "delete-favorite-error": "تم الحذف من المفضله بنجاح",
+  "add-message-error": "تم ارسال الرسالة بنجاح سوف يتم الرد عليك فى اسرع وقت",
+  "delete-reservation-error": "تم الحذف من الحجز بنجاح",
+  "edit-reservation-error": "تم تعديل من الحجز بنجاح",
+  "delete-medical-report-error": "تم حذف التقرير الطبى بنجاح",
+  "delete-medicine-error": "تم حذف ميعاد الدواء بنجاح"
+}
